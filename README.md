@@ -1,2 +1,2 @@
-# module_1
+# AI IN DATA SCIENCE
 this is about python based simple calculator program
